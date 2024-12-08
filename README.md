@@ -6,8 +6,8 @@
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO_FRONTEND>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/UrieLBadilloG/k2i_frontend.git
+cd k2i_frontend
 ```
 
 ### 2. Instalar dependencias
